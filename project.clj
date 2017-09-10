@@ -5,7 +5,6 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.9.0-alpha20"]
                  [org.apache.hive/hive-exec "2.3.0"]
-                 [org.apache.hive/hive-cli "2.3.0"]
                  [cheshire "5.8.0"]]
 
   :main msync.hql-foo
